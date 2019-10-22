@@ -1,9 +1,15 @@
 # daily-laughter | 每日一笑
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=taosin.daily-laughter)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=taosin.daily-laughter)
+
 > 笑，是人的一种平和心态以及善良的内心表现，同时，也是体内安多芬分泌物增高的时候。人的心情处于正常状态时，在与他人交谈期间就会呈现为平和的心理作用并用微笑来展现人与人之间的善意交往。人们常说“笑一笑，十年少”，笑口常开，笑天下可笑之事。
 
 *段子多摘自网络，侵删。*
 
+#### 2019-10-22
+----
+![](http://images.iamtaoxin.com/2019-10-22-%E6%88%AA%E5%B1%8F2019-10-22%E4%B8%8B%E5%8D%883.24.31.png)
 #### 2019-10-21
 ---
 
