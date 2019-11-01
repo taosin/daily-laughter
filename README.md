@@ -7,6 +7,12 @@
 
 *段子多摘自网络，侵删。*
 
+#### 2019-11-01
+----
+
+![](http://images.iamtaoxin.com/2019-11-01-15725992271485.jpg)
+
+
 #### 2019-10-31
 ----
 ![](https://pic4.zhimg.com/v2-1ab3ddff10f7b12b97edcd21f2af37a8_r.jpg)
