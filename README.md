@@ -1,11 +1,22 @@
 # daily-laughter | 每日一笑
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=taosin.daily-laughter)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=taosin.daily-laughter)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=taosin.daily-laughter) ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=taosin.daily-laughter)
 
 > 笑，是人的一种平和心态以及善良的内心表现，同时，也是体内安多芬分泌物增高的时候。人的心情处于正常状态时，在与他人交谈期间就会呈现为平和的心理作用并用微笑来展现人与人之间的善意交往。人们常说“笑一笑，十年少”，笑口常开，笑天下可笑之事。
 
 _段子多摘自网络，侵删。_
+
+#### 2020-03-10
+
+---
+
+前两天防盗门锁坏了，进不了屋，厂家来人半天也没修好，无奈只能 110 报警，割了防盗门！
+
+没一会儿警察来了，还从所里带了个刚抓的小偷。警察跟小偷说：“快点儿啊，给你十分钟，我这回去还等着下班了。”
+
+小偷：“用不了，五分钟的事儿。”然后，咔咔几下，门开了…开了……连一分钟都没用！
+
+据说当时厂家专业人士的脸色很难看…
 
 #### 2020-03-09
 
@@ -379,8 +390,7 @@ _段子多摘自网络，侵删。_
 
 ---
 
-我问爸爸:"为什么我只有大伯，二伯，四叔，五叔?为什么没有三叔?我三叔呢?死了吗？"
-爸爸抬手一耳刮子给我抽懵了。
+我问爸爸:"为什么我只有大伯，二伯，四叔，五叔?为什么没有三叔?我三叔呢?死了吗？" 爸爸抬手一耳刮子给我抽懵了。
 
 #### 2020-01-12
 
@@ -1170,10 +1180,7 @@ _段子多摘自网络，侵删。_
 
 ---
 
-一个真实的段子。
-我：xx，你外甥奶粉吃 pre 段还是 1 段的？
-徒弟：不间断！
-我：。。。
+一个真实的段子。我：xx，你外甥奶粉吃 pre 段还是 1 段的？徒弟：不间断！我：。。。
 
 #### 2019-10-02
 
